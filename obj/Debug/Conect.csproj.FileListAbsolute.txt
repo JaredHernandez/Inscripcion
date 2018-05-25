@@ -1,0 +1,686 @@
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Conect.dll.config
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Conect.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Conect.pdb
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Desktop\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Desktop\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\Usuario\Desktop\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Conect.dll.config
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Conect.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Conect.pdb
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\WebGrease.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\NOHEMI\Downloads\Conect\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Conect.dll.config
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Conect.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Conect.pdb
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\WebGrease.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Conect\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\Usuario\Documents\Conect\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Conect.dll.config
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Conect.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Conect.pdb
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\WebGrease.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\FABRICA7\Desktop\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\FABRICA7\Desktop\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Conect.dll.config
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Conect.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Conect.pdb
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\WebGrease.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Fernando\Documents\10-corporation\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Conect.dll.config
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Conect.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Conect.pdb
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\WebGrease.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\CSS3\Pictures\Conect (1)\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Conect.dll.config
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Conect.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Conect.pdb
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\WebGrease.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\CSS3\Desktop\proyecto conect recuperacio 100%\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moise\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moise\Desktop\Conect\Conect\bin\Conect.dll.config
+C:\Users\Moise\Desktop\Conect\Conect\bin\Conect.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Conect.pdb
+C:\Users\Moise\Desktop\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\WebGrease.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\Moise\Desktop\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Moise\Desktop\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Moise\Desktop\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Moise\Desktop\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\Moise\Desktop\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Conect.dll.config
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Conect.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Conect.pdb
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\WebGrease.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Downloads\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Downloads\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Downloads\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\Usuario\Downloads\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Conect.dll.config
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Conect.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Conect.pdb
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\WebGrease.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\CSS3\Documents\Conect (2)\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\pequi\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pequi\Desktop\Conect\Conect\bin\Conect.dll.config
+C:\Users\pequi\Desktop\Conect\Conect\bin\Conect.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Conect.pdb
+C:\Users\pequi\Desktop\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\WebGrease.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\pequi\Desktop\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pequi\Desktop\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pequi\Desktop\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\pequi\Desktop\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\pequi\Desktop\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\pequi\Desktop\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\HP\Desktop\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\HP\Desktop\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Conect\Conect\bin\Conect.dll.config
+C:\Users\HP\Desktop\Conect\Conect\bin\Conect.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Conect.pdb
+C:\Users\HP\Desktop\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\itextsharp.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\WebGrease.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Desktop\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moise\Pictures\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moise\Pictures\Conect\Conect\bin\Conect.dll.config
+C:\Users\Moise\Pictures\Conect\Conect\bin\Conect.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Conect.pdb
+C:\Users\Moise\Pictures\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\itextsharp.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\WebGrease.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\Moise\Pictures\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Moise\Pictures\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Moise\Pictures\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Moise\Pictures\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\Moise\Pictures\Conect\Conect\obj\Debug\Conect.pdb
+C:\Users\Moise\Pictures\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\csc.exe
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\vbc.exe
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Conect.dll.config
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Conect.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Conect.pdb
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Antlr3.Runtime.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.Web.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Newtonsoft.Json.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\System.Web.Optimization.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\WebGrease.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.Web.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\System.Web.Optimization.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Antlr3.Runtime.pdb
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Newtonsoft.Json.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\es\System.Web.Optimization.resources.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\obj\Debug\Conect.csprojResolveAssemblyReference.cache
+C:\Users\NOHEMI\Desktop\Conect\Conect\obj\Debug\Conect.dll
+C:\Users\NOHEMI\Desktop\Conect\Conect\obj\Debug\Conect.pdb

@@ -1,0 +1,18 @@
+﻿  body {
+            padding-top: 30px;
+        }
+        /*col-md-4{
+            
+        }*/
+        form {
+            border: medium double #369;
+            border-radius: 5px;
+            padding-top: 30px;
+            padding-right: 10px;
+            padding-left: 10px;
+            
+        }
+
+        .jumbotron{
+            background-color:#891811;
+        }

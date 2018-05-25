@@ -1,0 +1,33 @@
+﻿    .tabla{
+        /*display:table;*/
+        border-radius:5px;
+        border:3px solid #891811;
+        padding:30px;
+    /*width: 579px;
+    margin-right: 60px;*/
+}
+    .fila{
+        display:table-row;
+    }
+    .columna{
+        display:table-cell;
+        padding:10px;
+    }
+.estilo {
+    width: 10px;
+        background-color: #8AE0F2;
+        color: #000;
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 5px;
+}
+
+
+
+/*.fondo {
+    background-image:#e6eecc url('../images/beige_paper.png')repeat top left;
+    color: #333;
+    font-family: 'Terminal Dosis', Arial, sans-serif;
+    font-size: 13px;
+}*/
