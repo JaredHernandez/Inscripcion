@@ -177,7 +177,7 @@ Teléfono: 01(775) 75 5 82 02</p>
 
 </table>
      <br/>
-                             <asp:Button runat="server" ID="Unnamed3" Text="LISTO" CssClass="btn btn-success" OnClick="Unnamed3_Click1"  />
+                             <asp:Button runat="server" ID="Unnamed3" Text="GUARDAR" CssClass="alert-info" OnClick="Unnamed3_Click1"  />
 
  
  </div>  <%--</div>
