@@ -14,7 +14,7 @@ namespace Conect.DAO
         public SqlCommand comando { set; get; }
         public UConexion conexion { set; get; }
         public string instruccion { set; get; }
-
+        public string instruccion2 { set; get; }
         public void Insert(AlumComDTO obj, int id)
         {
             conexion = new UConexion();
